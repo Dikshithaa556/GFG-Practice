@@ -3,7 +3,7 @@ package Arrays;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Solution{
+public class ArrayLeaders{
     static ArrayList<Integer> arrayLeaders(int[]arr){
         ArrayList<Integer> list = new ArrayList<>();
         int n = arr.length;
